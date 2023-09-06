@@ -1,2 +1,2 @@
-# BeginnerTask
+# Task
 beginner task 
